@@ -24,7 +24,7 @@ A kinda smart plan management system
 ## [olivianet.controller](https://github.com/SoftwarePony/olivianet.controller)
 A cloud or locally hosted app that will keep track of the plant(s) conditions (including resource intensive tasks that can not be executed by the probes) and trigger probe commands (lights on/off, watering, etc)
 
-## [olivianet.probe] (https://github.com/SoftwarePony/olivianet.probe)
+## [olivianet.probe](https://github.com/SoftwarePony/olivianet.probe)
 A NodeMCU (ESP8266) powered device that will monitor most of the conditions in the plant habitat and report to the controller; this device is also in charge of controlling the habitat lighting and plant watering
 
 ## [olivianet.backend](https://github.com/SoftwarePony/olivianet.backend)
